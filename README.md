@@ -1,6 +1,13 @@
 # Currency Converter
 
+LINK: [https://forex-api-frontend.vercel.app/](https://forex-api-frontend.vercel.app/)
+
+![image](https://github.com/user-attachments/assets/4060c3cd-75db-45a8-9a78-5b351e3ac363)
+![image](https://github.com/user-attachments/assets/54e9f03a-03c7-440b-9982-681bb47f6c76)
+
+
 A React-based Currency Converter application that allows users to convert between different currencies using live exchange rates. The application fetches data from a backend API and displays it in a user-friendly interface, including a line chart to visualize exchange rate trends over selected periods.
+
 
 ## Features
 - Convert between multiple currencies.
@@ -65,6 +72,8 @@ For detailed API documentation and examples, visit the [Postman Documentation](h
 ## Deployment
 
 This application is deployed on [Vercel](https://vercel.com). You can view the live application at the following link: [Currency Converter Live](https://forex-api-frontend.vercel.app/).
+
+
 
 
 
